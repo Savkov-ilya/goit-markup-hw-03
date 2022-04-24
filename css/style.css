@@ -140,7 +140,7 @@ border-bottom: 1px solid #ECECEC;}
   margin-top: 0px;
   margin-bottom: 30px;
   text-decoration: none;
-  padding-top: 200px;
+ 
 
   text-transform: uppercase;
   font-size: 44px;
@@ -159,7 +159,7 @@ border-bottom: 1px solid #ECECEC;}
   letter-spacing: 0.06em;
   cursor: pointer;
   text-decoration: none;
-  margin-bottom: 200px;
+
   box-shadow: 0px 4px 4px rgb(0 0 0 / 15%);
   color: var(--primery-white-color);
   background-color: var(--accent-color);
@@ -215,7 +215,7 @@ border-bottom: 1px solid #ECECEC;}
 .photo {
   display: flex;
   padding-left: 0;
-  padding-right: 30px;
+  
 }
 .work {
 }
